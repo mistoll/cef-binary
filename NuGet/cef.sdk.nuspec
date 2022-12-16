@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
-    <id>cef.sdk</id>
+    <id>cef.sdk.DESIGNO</id>
     <version>$version$</version>
     <title>CEF SDK</title>
     <authors>The CEF Authors</authors>
